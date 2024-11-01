@@ -1,0 +1,75 @@
+*{
+    margin: auto;
+     padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+   }
+   body{
+    background-color: lightgrey;
+   }
+  
+   .container{
+    margin-top: 20px;
+    box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.3); 
+
+    background-color: white;
+    width: 60%;
+    padding:50px;
+  
+
+   }
+   header{
+    text-align: center;
+    padding: 40px;
+   }
+   header,h1{
+    padding:20px;
+   }
+   .info{
+    text-align: center;
+    padding: 20px;
+ 
+   }
+   .container p{
+    margin-bottom: 10px;
+   }
+  
+ 
+  
+  
+   .job{
+    padding: 10px;
+   }
+   .Job-title{
+    font-weight:bold;
+   }
+   .job-date{
+    font-style: italic;
+    color: grey;
+   }
+ 
+   section{
+    margin-bottom: 30px;
+    
+   }
+   .list li{
+    text-decoration: none;
+    list-style: none;
+    margin-bottom: 10px;
+
+   }
+   .job li{
+    margin-bottom: 10px;
+   }
+   .education p{
+  
+    padding-top: 20px;
+   }
+   .Summary p{
+    padding-top: 20px;
+   }
+   .Skills ul{
+    padding-top: 20px;
+   }
+   .experiences p{
+    padding-top: 20px;
+   }
